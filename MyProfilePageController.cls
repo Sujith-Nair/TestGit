@@ -4,7 +4,7 @@
  */
  
 //Additional Comments Required.
- 
+
 public with sharing class MyProfilePageController {
 
     private User user;

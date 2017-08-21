@@ -1,3 +1,4 @@
+// Master Comment
 @RestResource(urlMapping='/Account/*')
 global with sharing class MyRestResource implements SalesforceUtility {
 

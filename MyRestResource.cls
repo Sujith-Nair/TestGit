@@ -1,4 +1,3 @@
-// Master Comment
 // Master Comment - ADD SBONE - Updates
 @RestResource(urlMapping='/Account/*')
 global with sharing class MyRestResource implements SalesforceUtility {
